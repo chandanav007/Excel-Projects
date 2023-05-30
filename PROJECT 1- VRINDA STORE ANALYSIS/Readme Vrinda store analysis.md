@@ -13,7 +13,7 @@ SAMPLE QUESTIONS:
 
 4)What are different order status in 2022?
 
-5)List top 10 states contributing to the sales?\
+5)List top 10 states contributing to the sales?
 
 6)Relation between age and gender based on number of sales?
 
